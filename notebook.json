@@ -1,1 +1,59 @@
-{"darkMode":false,"nextCard":4,"nextPage":4,"pages":[{"cards":[{"color":"yellow","content":"","date":"2026-11-23","id":"card02","title":"Smoke"},{"color":"yellow","content":"","date":"2026-11-23","id":"card03","title":"Telemetry"}],"color":"blue","id":"page01","title":"Planned"},{"cards":[],"color":"green","id":"page02","title":"Completed"},{"cards":[{"color":"yellow","content":"","date":"2026-11-23","id":"card01","title":"Audit"}],"color":"purple","id":"page03","title":"Review"}]}
+{
+  "darkMode": true,
+  "nextCard": 4,
+  "nextPage": 4,
+  "origins": {
+    "card03": "card03@599da7ebb52b385f7831fd11d813b4d1c427e08b",
+    "card03a": "card03@fbe0190b4f0c2040752929dc758d5ea474d0d690"
+  },
+  "pages": [
+    {
+      "cards": [
+        {
+          "color": "yellow",
+          "content": "",
+          "date": "2026-11-23",
+          "id": "card02",
+          "title": "Smoke"
+        },
+        {
+          "color": "yellow",
+          "content": "",
+          "date": "2026-11-23",
+          "id": "card03",
+          "title": "Telemetry"
+        },
+        {
+          "color": "yellow",
+          "content": "",
+          "date": "2026-11-23",
+          "id": "card03a",
+          "title": "Telemetry"
+        }
+      ],
+      "color": "blue",
+      "id": "page01",
+      "title": "Planned"
+    },
+    {
+      "cards": [],
+      "color": "green",
+      "id": "page02",
+      "title": "Completed"
+    },
+    {
+      "cards": [
+        {
+          "color": "yellow",
+          "content": "",
+          "date": "2026-11-23",
+          "id": "card01",
+          "title": "Audit"
+        }
+      ],
+      "color": "purple",
+      "id": "page03",
+      "title": "Review"
+    }
+  ]
+}
